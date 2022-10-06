@@ -19,6 +19,7 @@ body {
   overflow-x: hidden;
   transition: background-color 0.2s;
   transform: scale(0.7);
+  margin-left: -250px;
 }
 
 #pomodoro {
