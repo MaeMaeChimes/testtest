@@ -181,7 +181,6 @@ body {
 #pomodoro #options {
   color: #FF6292;
   display: flex;
-  flex-direction: column;
   font-size: 28px;
   font-weight: normal;
   justify-content: center;
